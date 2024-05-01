@@ -19,3 +19,9 @@
 5. **Seller Fulfilling Orders:**
    - **Actor:** Seller
    - **Description:** The seller receives a notification of a new order on their seller dashboard. They view the order details, including the product(s) ordered, shipping address, and payment information. They then prepare the order for shipment, ensuring that the correct items are packed securely. They generate a shipping label through the platform and affix it to the package. Once the order is shipped, they update the order status on the platform, providing the customer with tracking information if available. They can also communicate with the customer through the platform regarding the order, such as providing updates on shipping status or addressing any concerns the customer may have.
+
+
+# Use Case
+![image](https://github.com/eslaim/System-Analysis-Project/assets/120843193/cdb856a6-82dc-420d-92f3-497c493b43fc)
+
+
